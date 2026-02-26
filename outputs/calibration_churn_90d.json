@@ -1,0 +1,11 @@
+{
+  "target": "churn_90d",
+  "method": "sigmoid",
+  "auc_base": 0.6155673993499647,
+  "auc_cal": 0.6155673993499647,
+  "brier_base": 0.1562049484709233,
+  "brier_cal": 0.15675485829199595,
+  "n_train": 4742,
+  "n_cal": 1186,
+  "n_test": 2072
+}

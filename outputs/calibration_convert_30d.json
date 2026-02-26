@@ -1,0 +1,11 @@
+{
+  "target": "convert_30d",
+  "method": "sigmoid",
+  "auc_base": 0.5661682921846507,
+  "auc_cal": 0.5661682921846507,
+  "brier_base": 0.12352101899073081,
+  "brier_cal": 0.12295829227973225,
+  "n_train": 4742,
+  "n_cal": 1186,
+  "n_test": 2072
+}

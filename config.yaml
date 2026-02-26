@@ -1,0 +1,9 @@
+cutoff_date: "2025-06-30"
+thresholds:
+  churn: 0.35
+  conversion: 0.3
+nba_policy:
+  churn_high: 0.45
+  ltv_high: 1200
+  conv_high: 0.35
+  conv_medium: 0.25

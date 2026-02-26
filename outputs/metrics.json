@@ -1,0 +1,26 @@
+{
+  "rows_train": 5928,
+  "rows_test": 2072,
+  "cutoff": "2025-06-30",
+  "churn": {
+    "auc": 0.6173342737273778,
+    "precision": 0.3090909090909091,
+    "recall": 0.0819277108433735,
+    "threshold": 0.35
+  },
+  "conversion": {
+    "auc": 0.5677610223738868,
+    "precision": 0.3157894736842105,
+    "recall": 0.020134228187919462,
+    "threshold": 0.3
+  },
+  "ltv": {
+    "rmse": 272.3260107173905
+  },
+  "policy": {
+    "churn_high": 0.45,
+    "ltv_high": 1200.0,
+    "conv_high": 0.35,
+    "conv_medium": 0.25
+  }
+}

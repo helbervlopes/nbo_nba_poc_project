@@ -1,0 +1,6 @@
+{
+  "target": "convert_30d",
+  "auc": 0.5677610223738868,
+  "csv": "permutation_importance_convert_30d.csv",
+  "png": "permutation_importance_convert_30d.png"
+}

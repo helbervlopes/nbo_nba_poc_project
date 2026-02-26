@@ -1,0 +1,6 @@
+{
+  "target": "churn_90d",
+  "auc": 0.6101737062916724,
+  "csv": "permutation_importance_churn_90d.csv",
+  "png": "permutation_importance_churn_90d.png"
+}

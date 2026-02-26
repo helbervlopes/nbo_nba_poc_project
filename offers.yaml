@@ -1,0 +1,29 @@
+offers:
+  - offer_id: UPSELL_PLANO
+    name: Upsell para plano
+    margin: 180.0
+    cost: 10.0
+    eligibility:
+      plan_active: 0
+      min_score_band: "650-700"
+  - offer_id: CASHBACK_PEDAGIO
+    name: Cashback leve em pedágio
+    margin: 35.0
+    cost: 12.0
+    eligibility:
+      min_freq_90d: 8
+      max_churn: 0.55
+  - offer_id: DESCONTO_ABAST
+    name: Desconto no abastecimento
+    margin: 55.0
+    cost: 18.0
+    eligibility:
+      min_monetary_90d: 500
+      max_churn: 0.60
+  - offer_id: RETENCAO_BENEFICIO
+    name: Benefício de retenção
+    margin: 90.0
+    cost: 30.0
+    eligibility:
+      min_churn: 0.45
+      max_churn: 0.90

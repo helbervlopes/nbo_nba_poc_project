@@ -1,0 +1,9 @@
+rows_train=5928
+rows_test=2072
+churn_auc=0.6159
+churn_precision@0.35=0.2883
+churn_recall@0.35=0.0771
+conv_auc=0.5622
+conv_precision@0.30=0.3182
+conv_recall@0.30=0.0235
+ltv_rmse=271.52
